@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #444444;
+  padding: 54px;
+  max-width: 720px;
+  margin: 0 auto;
+  border-left: 6px solid #e2231a;
+}
+
+img {
+  width: 100%;
+}
+
+/* Styles other page elements below */
+
+h2{
+  color: black
+}
+
+.nav_links {
+  color: #dddddd;
+  border-right: 1px;
+  padding-right: 10px;
+  padding-left: 8px;
+}
+
+h3 {
+  color: #cccccc;
+}
+
+h6 {
+  color: #e2231a;
+  text-align: right
+}
+
+footer {
+  color: #bbbbbb
+}
